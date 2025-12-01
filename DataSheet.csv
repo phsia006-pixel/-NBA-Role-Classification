@@ -1,0 +1,47 @@
+ Player (2025 Rookies),Points Per 36 Minutes,Blocks Per 36 Minutes,Assist Per 36 Minutes ,FG% Per 36 Minutes,3p% Per 36 Minutes,Free Throw % Per 36 Minutes,Offensive Rebounds Per 36 Minutes,Defensive Rebounds Per 36 Minutes,Turnovers Per 36 Minutes,Steals Per 36 Minutes,Personal Fouls Per 36 Minutes,,,,Player,Primary Archetype,Secondary Archetype,,
+Tyrese Maxey,28.6,0.8,7.4,0.458,0.444,0.88,0.3,4,2.2,1.1,2.4,,,,Nikola Jokic,Playmaker,3-Level Scorer,Archetype,Description
+Shai Gilgeious-Alexander,34.5,1.1,7,0.52,0.354,0.901,0.4,5.1,1.8,1.4,2,,,,Shai Gilgeous-Alexander,Midrange Specialist,3-Level Scorer,Shot Creator,"Creates their own shots using dribbles, stepbacks, pull-ups. High pull-up volume, high unassisted FG%, high ISO %."
+Devin Booker,28,0.2,7,0.496,0.379,0.883,1.2,3,4.1,0.8,2.7,,,,Giannis Antetokounmpo,Slasher,Defensive Anchor (Paint),Playmaker,"Creates shots for teammates. High AST%, high potential assists, high PnR ball-handler usage."
+Derrick White,17.2,1.3,5.7,0.352,0.292,0.806,0.9,3.2,1.4,2,1.9,,,,Luka Dončić,Playmaker,Shot Creator,Slasher,"Attacks the rim with speed/athleticism. High drives per game, rim frequency, FTr (free throw rate)."
+Franz Wagner,23.1,0.5,3.8,0.474,0.358,0.841,2.2,4.4,2.1,1.2,2.7,,,,Jayson Tatum,Two Way,3-Level Scorer,Two Way,"Strong offense + strong defense. Balanced scoring + good defensive metrics (stocks, DFG%, DBPM)."
+Rui Hachimura,16.7,0.3,1.4,0.575,0.511,0.733,0.8,3.1,1.3,0.7,2.2,,,,Stephen Curry,3-Point Specialist,Shot Creator,Defensive Anchor (Paint),"Protects the paint. High block rate, low DFG% at rim, high contests, rim deterrence."
+Payton Pritchard,17.3,0,5.9,0.429,0.281,0.788,1,3.5,1.6,1,2.3,,,,Anthony Davis,Defensive Anchor (Paint),Midrange Specialist,Defensive Playmaker (Perimeter),"Generates steals, deflections, on-ball pressure. High STL%, high deflections."
+Jaylen Brown,30.7,0.4,4.7,0.516,0.361,0.787,0.9,4.9,3.9,0.8,3.9,,,,Victor Wembanyama,Defensive Anchor (Paint),Two Way,Midrange Specialist,"High midrange volume + efficiency. Pull-up 2s, elbow jumpers, fadeaways."
+VJ Edgecombe,14.8,0.4,4.1,0.409,0.362,0.759,1.8,3.5,1.9,1.3,2.8,,,,Joel Embiid,Midrange Specialist,Defensive Anchor (Paint),3-Point Specialist,"High 3PA rate + accuracy. Catch-and-shoot threats, spacing gravity."
+Cade Cunningham,26.7,0.8,9.6,0.436,0.288,0.802,1.1,4.2,3.5,1.3,3.6,,,,Kevin Durant,Midrange Specialist,3-Level Scorer,3-Level Scorer,"Efficient at the rim, midrange, and 3s. Versatile scoring chart."
+Grayson Allen,20.3,0.4,4.8,0.455,0.446,0.813,0.5,2.9,2,1.8,2.7,,,,Devin Booker,Midrange Specialist,Shot Creator,Stretch 5,A center who shoots from deep. High 3PA rate for a big; pops instead of rolls.
+Kelly Oubre Jr.,17.7,0.9,1.3,0.507,0.354,0.806,1.3,4.1,1.5,1,2.8,,,,Anthony Edwards,Two Way,Slasher,,
+Demar DeRozan,20.6,0.2,3.6,0.486,0.4,0.847,0.5,3.1,1.2,1.1,1.9,,,,Jalen Brunson,Shot Creator,Midrange Specialist,,
+Dyson Daniels,9.9,0.5,6.1,0.448,0.25,0.6,1.5,4.9,2.3,2.5,2.5,,,,Kyrie Irving,Shot Creator,3-Level Scorer,,
+Trey Murphy III,18.5,0.2,3.7,0.435,0.352,0.914,1.7,5.1,1.5,1.3,2.2,,,,Ja Morant,Slasher,Playmaker,,
+Paolo Banchero,23.8,1,4.5,0.461,0.25,0.766,1,8.5,2.9,0.8,2.7,,,,Bam Adebayo,Defensive Anchor (Paint),Playmaker,,
+Cooper Flagg,16.6,0.8,3.7,0.421,0.286,0.825,1.2,6.2,2.6,1.6,2.7,,,,Jaylen Brown,Two Way,Slasher,,
+Andrew Wiggins,19.5,1,3.1,0.528,0.4,0.636,1.5,3.8,2.4,1.4,2.7,,,,Karl-Anthony Towns,Stretch 5,3-Point Specialist,,
+Lauri Markkeanen,28.9,0.5,2.1,0.468,0.381,0.88,2.2,3.9,1.2,0.8,1.8,,,,Pascal Siakam,Slasher,Two Way,,
+Duncan Robinson,13.8,0.4,1.9,0.458,0.429,0.778,0.4,2.5,0.7,0.7,3.3,,,,De’Aaron Fox,Slasher,Midrange Specialist,,
+Nikola Jokić,29.6,0.6,10.2,0.576,0.417,0.8,2.8,7.1,3.1,1.8,3.2,,,,LeBron James,Playmaker,Two Way,,
+Shai Gilgeous-Alexander,34.4,1.1,7,0.519,0.375,0.898,0.9,4.3,2.5,1.4,2.3,,,,Rookie,Primary Archetype,Secondary Archetype,,
+Giannis Antetokounmpo,31.9,1.4,6.8,0.601,0.222,0.617,2.3,10.2,3.2,1.1,2.2,,,,VJ Edgecombe,Two Way,Midrange Specialist,,
+Luka Dončić,28.7,0.4,9,0.469,0.313,0.767,0.8,7.9,3.4,1.7,2.7,,,,Cooper Flagg,Two Way,Defensive Playmaker (Perimeter),,
+Jayson Tatum,26.4,0.5,5.9,0.452,0.343,0.814,0.7,7.2,2.9,1,2.1,,,,Cade Cunningham,Playmaker,Midrange Specialist,,
+Stephen Curry,26.3,0.5,6.2,0.463,0.396,0.937,0.6,3.8,3,1.5,2.4,,,,Paolo Banchero,Slasher,Two Way,,
+Anthony Davis,24.1,2.4,3.4,0.491,0.292,0.766,2.8,6.1,2.3,1.3,2.9,,,,Dyson Daniels,Defensive Playmaker (Perimeter),Playmaker,,
+Victor Wembanyama,26.3,4.1,4.2,0.426,0.329,0.875,2.2,9.1,2.6,1.5,4,,,,Trey Murphy III,3-Point Specialist,Playmaker,,
+Joel Embiid,33.4,1.8,4.1,0.539,0.341,0.828,2.5,9.9,3.4,1,3.4,,,,Rui Hachimura,Midrange Specialist,Slasher,,
+Kevin Durant,26.2,1,5.4,0.527,0.43,0.839,0.5,4.6,2.8,1.1,2.4,,,,Franz Wagner,Two Way,3-Level Scorer,,
+Devin Booker,29,0.4,5,0.528,0.547,0.921,0.5,4.2,2.1,1.3,2.1,,,,Demar DeRozan,Midrange Specialist,Shot Creator,,
+Anthony Edwards,26.2,0.5,5.3,0.462,0.392,0.822,0.8,4.1,2.6,1.1,2.3,,,,Kelly Oubre Jr.,Slasher,Two Way,,
+Jalen Brunson,27.4,0.1,6.3,0.488,0.384,0.821,0.3,3,1.8,0.9,2.4,,,,Grayson Allen,3-Point Specialist,Playmaker,,
+Kyrie Irving,26.4,0.5,5.4,0.514,0.416,0.785,0.6,4,2,1.3,2.6,,,,Andrew Wiggins,Two Way,Slasher,,
+Ja Morant,27.5,0.4,7.4,0.467,0.316,0.772,0.8,3.6,2.7,1,2.9,,,,Lauri Markkanen,3-Level Scorer,Stretch Forward,,
+Bam Adebayo,21,1.1,4.4,0.522,0,0.875,2.7,5.7,2,1.4,2.3,,,,Duncan Robinson,3-Point Specialist,Movement Shooter,,
+Jaylen Brown,24.2,0.3,3.5,0.464,0.353,0.85,1.5,3.3,2.6,1.3,2.2,,,,Payton Pritchard,Playmaker,Shot Creator,,
+Karl-Anthony Towns,23.4,1.3,4.3,0.531,0.457,0.852,1.8,6.1,2.5,0.9,2.7,,,,Jaylen Brown,Slasher,Two Way,,
+Pascal Siakam,19,0.4,3.6,0.514,0.329,0.861,1.4,4.8,2.2,1,2,,,,Trey Murphy III,3-Point Specialist,Playmaker,,
+De’Aaron Fox,26.4,0.5,5.1,0.538,0.512,0.827,0.7,3.2,2.1,1.3,2.2,,,,Dyson Daniels,Defensive Playmaker,Shot Creator,,
+LeBron James,25.2,0.7,7.8,0.521,0.412,0.755,0.9,6.7,3.3,1.3,1.6,,,,Cooper Flagg,Two Way,Slasher,,
+,,,,,,,,,,,,,,,Paolo Banchero,Slasher,Playmaker,,
+Averages,24.073,0.785,5.183,0.4866,0.3608,0.8124,1.256,4.998,2.373,1.239,2.554,,,,,,,,
+Minimum,9.9,0,1.3,0.352,0,0.6,0.3,2.5,0.7,0.7,1.6,,,,,,,,
+Maximum,34.5,4.1,10.2,0.601,0.547,0.937,2.8,10.2,4.1,2.5,4,,,,,,,,
+Standard Deviation,5.842,0.718,2.031,0.0497,0.0899,0.0738,0.733,1.974,0.755,0.371,0.507,,,,,,,,
