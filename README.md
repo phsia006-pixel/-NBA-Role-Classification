@@ -1,77 +1,94 @@
-# Homework-File
+# NBA Player Role Classification
 
- NBA Archetype Classification (EE016 Project)
-Overview
+## Overview
 
-Modern NBA teams analyze advanced metrics to understand player strengths, but traditional box score stats do not capture the full picture.
-This project builds a machine learning model that classifies NBA players into custom archetypes such as:
+This project uses NBA player statistics and machine learning methods to classify players into custom role archetypes. Instead of only grouping players by traditional positions such as guard, forward, or center, the project focuses on playstyle-based roles such as scorers, playmakers, slashers, defensive anchors, and stretch bigs.
 
-3-Level Scorer
+The goal is to turn raw basketball statistics into meaningful player profiles that could help with scouting, player development, and lineup analysis.
 
-Playmaker
+## Player Archetypes
 
-Slasher
+The project classifies players into custom archetypes including:
 
-Defensive Anchor (Paint)
+- 3-Level Scorer
+- Playmaker
+- Slasher
+- Defensive Anchor
+- Two-Way Wing
+- Midrange Specialist
+- 3-Point Specialist
+- Stretch 5
 
-Two-Way Wing
+## Dataset
 
-Midrange Specialist
+The dataset contains per-36-minute NBA statistics for approximately 70 players, including 2025 rookies. The features include:
 
-3-Point Specialist
+- Points
+- Assists
+- Blocks
+- Field goal percentage
+- 3-point percentage
+- Free throw percentage
+- Offensive rebounds
+- Defensive rebounds
+- Turnovers
+- Steals
+- Personal fouls
 
-Stretch 5
+Using per-36-minute statistics allowed players with different playing times to be compared more fairly.
 
-The goal is to turn raw numerical statistics into meaningful player profiles that NBA teams can use for scouting, development, and lineup optimization.
+## Preprocessing
 
- Dataset
+The preprocessing steps included:
 
-Our dataset contains per-36-minute NBA statistics for ~70 players, including 2025 rookies.
-Features include:
+- Cleaning and formatting numerical statistics
+- Organizing player data into a structured CSV file
+- Standardizing per-36-minute statistics
+- Computing summary statistics for the dataset
+- Preparing features for classification models
 
-Points
+## Motivation
 
-Assists
+Traditional box score statistics do not always show the full picture of a player's role. Two players may have similar positions but very different playing styles. For example, one forward may mainly score from the perimeter, while another may contribute more through defense, rebounding, and cutting.
 
-Blocks
+This project explores how machine learning can be used to identify player tendencies and group players into more descriptive basketball archetypes.
 
-FG%, 3P%, FT%
+## Methods
 
-Offensive & Defensive Rebounds
+This project was designed as a classification problem. The planned models included:
 
-Turnovers
+- k-Nearest Neighbors
+- Logistic Regression / Softmax Classifier
 
-Steals
+The model is intended to output probabilities for each archetype because many NBA players fit multiple roles instead of only one category.
 
-Personal Fouls
+## Tools Used
 
-Preprocessing steps included:
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- CSV data processing
+- Technical report writing
+- Presentation design
 
-Cleaning and formatting numerical features
+## Files in This Repository
 
-Standardizing per-36 statistics
+- `DataSheet.csv` — Player statistics dataset used for classification
+- `EE16_Project_Report_NBA_Classification.pdf` — Final project report
+- `EE016 Project Presentation` — Project presentation slides
+- `README.md` — Project overview and documentation
 
+## My Contribution
 
-Computing dataset summary statistics
+As part of this project, I contributed to organizing the dataset, defining player archetypes, analyzing relevant statistical features, and preparing the final report and presentation. The project helped me practice data preprocessing, classification concepts, and communicating technical results in a clear format.
 
- Motivation
+## Skills Demonstrated
 
-Teams often categorize players using subjective observations, but advanced analytics reveal deeper patterns.
-Our objective is to:
-
-Use machine learning to identify playstyles
-
-Quantify how players fit certain archetypes
-
-Help teams understand how a player fits into their system
-
-Methods
-
-This is a classification project. Planned models include:
-
-k-Nearest Neighbors (k-NN)
-
-Logistic Regression / Softmax Classifier
-
-The model outputs probabilities for each archetype, since most NBA players exhibit multiple tendencies.
-
+- Machine learning classification
+- Data cleaning and preprocessing
+- Feature selection
+- Statistical analysis
+- Technical writing
+- Team-based project development
+- Engineering presentation skills
