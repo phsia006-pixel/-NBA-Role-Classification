@@ -74,10 +74,10 @@ The model is intended to output probabilities for each archetype because many NB
 
 ## Files in This Repository
 
-- `DataSheet.csv` — Player statistics dataset used for classification
-- `EE16_Project_Report_NBA_Classification.pdf` — Final project report
-- `EE016 Project Presentation` — Project presentation slides
-- `README.md` — Project overview and documentation
+- `DataSheet.csv` - Player statistics dataset used for classification
+- `EE16_Project_Report_NBA_Classification.pdf` - Final project report
+- `EE016 Project Presentation` - Project presentation slides
+- `README.md` - Project overview and documentation
 
 ## My Contribution
 
